@@ -5,10 +5,8 @@
  */
 package RMI;
 
-/**
- *
- * @author meriam
- */
+import java.util.*;
+
 public class Medicine {
     private String name;
     private String type;
